@@ -1,4 +1,4 @@
-# Coral_Academy_DataAnalysis_Dashboarding
+# Engagement Analytics for Class Scheduling Optimization
 
 ### Zoom Class Log Analysis and Scheduling Strategy
 ### Overview:
